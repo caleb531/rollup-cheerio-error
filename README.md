@@ -16,9 +16,6 @@ $ npm run build
 > rollup-cheerio-error@1.0.0 build /Users/Caleb/Repositories/rollup-cheerio-error
 > rollup -c
 
-loaded rollup.config.js with warnings
-(!) Unused external imports
-default imported from external module 'rollup-plugin-json' but never used
 
 src/index.js → dist/index.js...
 [!] Error: Unexpected token
