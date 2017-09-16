@@ -7,7 +7,7 @@ This small project demonstrates an error I am experiencing in loading the
 ## The Problem
 
 I am having an issue where Rollup will error out if I try to import cheerio as a
-module.
+module. Importing my other module (Mithril) works perfectly, however.
 
 ```
 $ npm install
